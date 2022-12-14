@@ -15,10 +15,12 @@ public class school2 {
 
 
  int b = 7534;
- System.out.println(b/1000 );
- System.out.println(b/100 % 10);
- System.out.println(b/10 % 10);
- System.out.println(b%10);
+   System.out.println(b/1000 );
+   System.out.println(b/100 % 10);
+   System.out.println(b/10 % 10);
+   System.out.println(b%10);
+
+
 
     }
 }
